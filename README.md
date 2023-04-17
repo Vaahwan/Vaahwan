@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axg-coder&label=Profile%20views&color=0e75b6&style=flat" alt="axg-coder" /> </p>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently doing project in *MERN stack*
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.azizfalah.com/](https://www.azizfalah.com/) -->
 
